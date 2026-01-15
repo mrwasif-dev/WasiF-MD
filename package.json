@@ -1,0 +1,12 @@
+{
+  "name": "wasif-md",
+  "version": "1.0.0",
+  "description": "WasiF MD — A modern WhatsApp Multi-Device bot built using Baileys (Node.js).",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "WasiF",
+  "license": "MIT"
+}
